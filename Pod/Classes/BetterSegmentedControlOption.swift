@@ -7,6 +7,8 @@
 //
 
 import Foundation
+import UIKit
+
 
 public enum BetterSegmentedControlOption {
     /* Non-selected segments */
